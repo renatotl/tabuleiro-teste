@@ -17,6 +17,7 @@ function fullfillArr() {
   }
 }
 
+
 //funcão para começar o jogo
 //insere as divs com as frutas
 function generateGame() {
